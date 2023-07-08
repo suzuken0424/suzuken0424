@@ -30,6 +30,5 @@
 
 <img src="https://skillicons.dev/icons?i=react,next" /> <br />
 
-
 ##
 <img src="https://raw.githubusercontent.com/suzuken0424/suzuken0424/master/img/snake.svg" />
